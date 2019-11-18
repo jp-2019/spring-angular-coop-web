@@ -3,7 +3,17 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
 ## Development server
-Ensure you have the lastest Angular version by running: 
+Open Intellij 
+New - project from existing sources - gradle project 
+Open build.gradle from server folder
+Run build.gradle
+Right click on build.gradle
+Select import build.gradle folder
+Right click on server or demo from right panel toolbar
+Click Gradle Config 
+Gradle should recognize all dependencies in build.gradle file now
+
+Next, ensure you have the lastest Angular version by running: 
 `npm i -g @angular/cli@latest`
 `npm i --save-dev @angular/cli@latest`
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
