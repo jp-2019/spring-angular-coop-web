@@ -3,8 +3,26 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
 ## Development server
+Open Intellij 
+New - project from existing sources - gradle project 
+Open build.gradle from server folder
+Run build.gradle
+Right click on build.gradle
+Select import build.gradle folder
+Right click on server or demo from right panel toolbar
+Click Gradle Config 
+Gradle should recognize all dependencies in build.gradle file now
 
+Next, ensure you have the lastest Angular version by running: 
+`npm i -g @angular/cli@latest`
+`npm i --save-dev @angular/cli@latest`
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+Run `npm i -g @compodoc/compodoc` to add Compodoc for documentation. 
+
+Run `compodoc -p [INSERT YOUR PATH TO tslint.json in project folder]`
+
+Run `compodoc -s` to see our documentation on http://127.0.0.1:8080/
 
 ## Code scaffolding
 
