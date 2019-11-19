@@ -55,13 +55,22 @@ customElements.define('compodoc-menu', class extends HTMLElement {
                                 <a href="modules/AppModule.html" data-type="entity-link">AppModule</a>
                                     <li class="chapter inner">
                                         <div class="simple menu-toggler" data-toggle="collapse" ${ isNormalMode ?
+<<<<<<< Updated upstream
                                             'data-target="#components-links-module-AppModule-43718ce2372b17db69801c1a3a3fce79"' : 'data-target="#xs-components-links-module-AppModule-43718ce2372b17db69801c1a3a3fce79"' }>
+=======
+                                            'data-target="#components-links-module-AppModule-9241059dcdeef6be8f3607787c259185"' : 'data-target="#xs-components-links-module-AppModule-9241059dcdeef6be8f3607787c259185"' }>
+>>>>>>> Stashed changes
                                             <span class="icon ion-md-cog"></span>
                                             <span>Components</span>
                                             <span class="icon ion-ios-arrow-down"></span>
                                         </div>
+<<<<<<< Updated upstream
                                         <ul class="links collapse" ${ isNormalMode ? 'id="components-links-module-AppModule-43718ce2372b17db69801c1a3a3fce79"' :
                                             'id="xs-components-links-module-AppModule-43718ce2372b17db69801c1a3a3fce79"' }>
+=======
+                                        <ul class="links collapse" ${ isNormalMode ? 'id="components-links-module-AppModule-9241059dcdeef6be8f3607787c259185"' :
+                                            'id="xs-components-links-module-AppModule-9241059dcdeef6be8f3607787c259185"' }>
+>>>>>>> Stashed changes
                                             <li class="link">
                                                 <a href="components/AppComponent.html"
                                                     data-type="entity-link" data-context="sub-entity" data-context-id="modules">AppComponent</a>
