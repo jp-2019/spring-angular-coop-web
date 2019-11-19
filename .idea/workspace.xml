@@ -1,15 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66a2842c-d522-4066-b562-f4f76d268dcd" name="Default Changelist" comment="" />
+    <list default="true" id="66a2842c-d522-4066-b562-f4f76d268dcd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/WarGameSelf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/out/production/WarGameSelf/ArmoryFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/out/production/WarGameSelf/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/out/production/WarGameSelf/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/out/production/WarGameSelf/weaponry/Ak47.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/out/production/WarGameSelf/weaponry/Barrel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/out/production/WarGameSelf/weaponry/ShotGun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/out/production/WarGameSelf/weaponry/Warehouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/src/ArmoryFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/src/weaponry/Ak47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/src/weaponry/Barrel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/src/weaponry/ShotGun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarGameSelf/src/weaponry/Warehouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/armoryTwo/src/armory/Bazuka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/server/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/server">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TnBuEk09tRaWIGjqChZZykXFhg" />
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -24,11 +74,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="C:/Users/jeann/IdeaProjects/spring-angular-coop-web/server/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.server">
+    <configuration name="CoopSoftware" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/server/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/server" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
         <option name="taskDescriptions">
@@ -42,9 +109,14 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Gradle.CoopSoftware" />
+      <item itemvalue="Gradle.server" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.C:/Users/jeann/IdeaProjects/spring-angular-coop-web/server/build.gradle" />
+        <item itemvalue="Gradle.server" />
+        <item itemvalue="Gradle.CoopSoftware" />
       </list>
     </recent_temporary>
   </component>
@@ -60,5 +132,16 @@
       <updated>1574086199260</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
