@@ -2,115 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66a2842c-d522-4066-b562-f4f76d268dcd" name="Default Changelist" comment="">
-<<<<<<< Updated upstream
-      <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/classes/AppPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/components/AppComponent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/components/LoginComponent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/coverage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/dependencies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/ionicons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/ionicons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/ionicons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/ionicons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/ionicons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/roboto-v15-latin-300.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/roboto-v15-latin-300.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/roboto-v15-latin-300.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/roboto-v15-latin-300.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/roboto-v15-latin-300.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/roboto-v15-latin-700.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/roboto-v15-latin-700.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/roboto-v15-latin-700.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/roboto-v15-latin-700.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/roboto-v15-latin-700.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/roboto-v15-latin-italic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/roboto-v15-latin-italic.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/roboto-v15-latin-italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/roboto-v15-latin-italic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/roboto-v15-latin-italic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/roboto-v15-latin-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/roboto-v15-latin-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/roboto-v15-latin-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/roboto-v15-latin-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/fonts/roboto-v15-latin-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/graph/dependencies.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/images/compodoc-vectorise-inverted.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/images/compodoc-vectorise-inverted.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/images/compodoc-vectorise.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/images/compodoc-vectorise.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/images/coverage-badge-documentation.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/compodoc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/lazy-load-graphs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/libs/EventDispatcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/libs/bootstrap-native.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/libs/clipboard.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/libs/custom-elements-es5-adapter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/libs/custom-elements.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/libs/d3.v3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/libs/deep-iterator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/libs/es6-shim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/libs/htmlparser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/libs/innersvg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/libs/lit-html.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/libs/prism.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/libs/promise.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/libs/svg-pan-zoom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/libs/tablesort.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/libs/tablesort.number.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/libs/vis.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/libs/zepto.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/menu-wc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/routes/routes_index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/search/lunr.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/search/search-lunr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/search/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/search/search_index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/sourceCode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/svg-pan-zoom.controls.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/tabs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/js/tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/miscellaneous/variables.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/modules.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/modules/AppModule.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/modules/AppModule/dependencies.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/modules/AppRoutingModule.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/overview.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/routes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/styles/bootstrap-card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/styles/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/styles/compodoc.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/styles/ionicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/styles/laravel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/styles/material.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/styles/original.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/styles/postmark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/styles/prism.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/styles/readthedocs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/styles/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/styles/stripe.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/styles/tablesort.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/documentation/styles/vagrant.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/app/app.routing.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/HttpInterceptor.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/hello-world.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/hello-world.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/hello-world/hello-world.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/hello-world/hello-world.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/hello-world/hello-world.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/hello-world/hello-world.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/login/auth.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/login/auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/message.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/proxy.conf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/com/example/demo/bean/AuthenticationBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/com/example/demo/config/SpringSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/com/example/demo/controller/BasicAuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testTDGame/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testTDGame/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testTDGame/.idea/testTDGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testTDGame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testTDGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/demo.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/demo.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/demo.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/demo.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/login/login.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/login/login.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/app.routing.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.routing.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/app/login/login.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/login/login.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/app/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/login/login.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/styles.css" afterDir="false" />
->>>>>>> Stashed changes
+      <change beforePath="$PROJECT_DIR$/server/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/server/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -118,8 +44,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< Updated upstream
-=======
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/server">
       <ProjectState />
@@ -143,6 +67,12 @@
                 <item name="demo" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
             </expand>
             <select />
           </tree_state>
@@ -150,25 +80,27 @@
       </state>
     </system>
   </component>
->>>>>>> Stashed changes
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TnBuEk09tRaWIGjqChZZykXFhg" />
-<<<<<<< Updated upstream
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-=======
-  <component name="ProjectLevelVcsManager">
->>>>>>> Stashed changes
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-<<<<<<< Updated upstream
-=======
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
->>>>>>> Stashed changes
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -187,7 +119,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DemoApplication">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
+      <module name="demo.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.bean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="server [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/server" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="spring-angular-coop-web/server/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -207,6 +171,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.server [build]" />
+        <item itemvalue="Application.DemoApplication" />
         <item itemvalue="Gradle.spring-angular-coop-web/server/build.gradle" />
       </list>
     </recent_temporary>
@@ -224,18 +190,17 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ts" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-<<<<<<< Updated upstream
-            <State />
-=======
             <State>
               <option name="COLUMN_ORDER" />
             </State>
->>>>>>> Stashed changes
           </value>
         </entry>
       </map>
