@@ -1,8 +1,6 @@
 <div class="container">
-  <form [formGroup]="credentials" (ngSubmit)="login()">
+  <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
     <div class="form-group">
-        <div class="alert alert-warning" *ngIf='invalidLogin'>{{errorMessage}}</div>
-        <div class="alert alert-success" *ngIf='loginSuccess'>{{successMessage}}</div>
       <label for="loginId">Login:</label>
       <input class="form-control" type="text" name="loginId" id="loginId" placeholder="Login">
     </div>
