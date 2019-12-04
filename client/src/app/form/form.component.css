@@ -1,0 +1,13 @@
+.container {
+  position: absolute;
+  width: 50%;
+  top: 30%;
+  left: 25%;
+}
+
+.btn {
+  background-color: #25408f;
+  color: #f3f3f3;
+  width: 40%;
+  margin: 1.2rem;
+}

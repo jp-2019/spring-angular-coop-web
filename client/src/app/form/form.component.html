@@ -1,0 +1,19 @@
+<div class="container">
+  <form [formGroup]="mainForm" (ngSubmit)="onSubmit()">
+    <div class="form-group">
+      <label for="firstNameId">Student's First Name:</label>
+      <input class="form-control" type="text" name="firstNameId" id="firstNameId" placeholder="First Name">
+    </div>
+    <div class="form-group">
+      <label for="lastNameId">Last Name:</label>
+      <input class="form-control" type="text" name="lastNameId" id="lastNameId" placeholder="Last Name">
+    </div>
+    <div class="form-group">
+      <label for="courseStudied">Course studied:</label>
+      <input class="form-control" type="text" name="courseStudied" id="courseStudied" placeholder="Name of course">
+    </div>
+    <div class="text-center">
+      <button type="submit" class="btn btn-lg">Submit</button>
+    </div>
+  </form>
+</div>
