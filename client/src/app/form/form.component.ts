@@ -14,8 +14,11 @@ export class FormComponent implements OnInit {
   }
 
   mainForm = this.fb.group({
-  loginId: '',
-  password: ''
+  firstNameId: '',
+  lastNameId: '',
+  courseStudiedId: '',
+  batchYearId: '',
+  coopHostId: '',
   })
 
   onSubmit(){
