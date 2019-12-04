@@ -16,6 +16,10 @@ Gradle should recognize all dependencies in build.gradle file now
 Next, ensure you have the lastest Angular version by running: 
 `npm i -g @angular/cli@latest`
 `npm i --save-dev @angular/cli@latest`
+
+You may have to install bootstrap into the project. To do so, run:
+`npm install bootstrap --save`
+
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 Run `npm i -g @compodoc/compodoc` to add Compodoc for documentation. 

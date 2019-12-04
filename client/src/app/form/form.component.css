@@ -1,7 +1,13 @@
+.title {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  text-align: center;
+}
+
 .container {
   position: absolute;
   width: 50%;
-  top: 30%;
+  top: 25%;
   left: 25%;
 }
 
