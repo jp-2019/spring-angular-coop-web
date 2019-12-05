@@ -2,34 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66a2842c-d522-4066-b562-f4f76d268dcd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/WarGameSelf.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/out/production/WarGameSelf/ArmoryFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/out/production/WarGameSelf/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/out/production/WarGameSelf/main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/out/production/WarGameSelf/weaponry/Ak47.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/out/production/WarGameSelf/weaponry/Barrel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/out/production/WarGameSelf/weaponry/ShotGun.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/out/production/WarGameSelf/weaponry/Warehouse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/src/ArmoryFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/src/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/src/weaponry/Ak47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/src/weaponry/Barrel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/src/weaponry/ShotGun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarGameSelf/src/weaponry/Warehouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/armoryTwo/src/armory/Bazuka.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuilderPattern/src/com/company/person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuilderPattern/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PowerDefenceGame/src/sample/ArmoryFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PowerDefenceGame/src/sample/amory/ARFifteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PowerDefenceGame/src/sample/amory/Armory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PowerDefenceGame/src/sample/amory/MSixteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PowerDefenceGame/src/sample/amory/NineMills.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortingAlgoryths/src/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/server/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/armoryTwo/src/armory/Bazuka.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/student-form/student-form.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/student-form/student-form.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/student-form/student-form.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/student-form/student-form.component.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,9 +41,10 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
   </component>
   <component name="ProjectId" id="1TnBuEk09tRaWIGjqChZZykXFhg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -138,7 +125,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
