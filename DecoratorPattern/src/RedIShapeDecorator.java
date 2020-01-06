@@ -9,6 +9,11 @@ public class RedShapeDecorator extends ShapeDecorator{
     }
 
     private void setRedBorder(Shape shape) {
+
+        setCenterX(400.0f);
+        setCenterY(135.0f);
+        setRadius(100.0f);
+
         System.out.println("The border is red");
     }
 }

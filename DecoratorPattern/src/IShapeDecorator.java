@@ -1,4 +1,6 @@
-public class ShapeDecorator implements Shape {
+import javafx.scene.shape.Circle;
+
+public class ShapeDecorator extends Circle implements Shape {
 
     protected Shape decoratedShape;
 
