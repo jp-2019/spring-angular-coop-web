@@ -1,15 +1,20 @@
 import javafx.scene.shape.Circle;
 
-public class ShapeDecorator extends Circle implements Shape {
+public class IShapeDecorator extends Circle implements IShape {
 
-    protected Shape decoratedShape;
+    protected IShape decoratedIShape;
 
-    public ShapeDecorator(Shape decoratedShape) {
-        this.decoratedShape = decoratedShape;
+    public IShapeDecorator(IShape decoratedIShape) {
+        this.decoratedIShape = decoratedIShape;
     }
 
     public void draw(){
-        decoratedShape.draw();
+
+        setCenterX(400.0f);
+        setCenterY(135.0f);
+        setRadius(100.0f);
+
+        decoratedIShape.draw();
 
     }
 }

@@ -2,7 +2,6 @@ import javafx.application.Application;
 import javafx.scene.Group;
 import javafx.scene.Scene;
 import javafx.scene.paint.Color;
-import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
 
 public class DecoratorDemo extends Application {
@@ -15,8 +14,7 @@ public class DecoratorDemo extends Application {
     @Override
     public void start(Stage stage) {
 
-        Shape redCircle = new RedShapeDecorator(new MyCircle());
-        redCircle.draw();
+
 //        Shape rect = new RedShapeDecorator(new Rectangle());
 //        rect.draw();
 
@@ -29,20 +27,15 @@ public class DecoratorDemo extends Application {
 
 
 
-//        // create a Group
-        MyCircle circle = new MyCircle();
-
-        circle.draw();
+        RedIShapeDecorator redCircle = new RedIShapeDecorator(new MyCircle());
+        redCircle.draw();
 
         MyRectangle rectangle = new MyRectangle();
         rectangle.draw();
 
-        Group root = new Group((Circle) redCircle, rectangle);
+        Group root = new Group(redCircle, rectangle);
         //Creating a scene object
         Scene scene = new Scene(root, 600, 300, Color.BLANCHEDALMOND);
-        //Setting title to the Stage
-//        Stage stage = new Stage();
-
 
 
         //Adding scene to the stage

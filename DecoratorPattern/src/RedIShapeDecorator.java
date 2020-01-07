@@ -1,18 +1,15 @@
-public class RedShapeDecorator extends ShapeDecorator{
-    public RedShapeDecorator(Shape decoratedShape) {
-        super(decoratedShape);
+public class RedIShapeDecorator extends IShapeDecorator {
+    public RedIShapeDecorator(IShape decoratedIShape) {
+        super(decoratedIShape);
     }
 
     public void draw() {
         super.draw();
-        setRedBorder(decoratedShape);
+        setRedBorder(decoratedIShape);
     }
 
-    private void setRedBorder(Shape shape) {
+    private void setRedBorder(IShape shape) {
 
-        setCenterX(400.0f);
-        setCenterY(135.0f);
-        setRadius(100.0f);
 
         System.out.println("The border is red");
     }

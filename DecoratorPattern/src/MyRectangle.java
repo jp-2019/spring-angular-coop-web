@@ -2,7 +2,7 @@ import javafx.scene.shape.Rectangle;
 
 
 
-public class MyRectangle extends Rectangle implements Shape{
+public class MyRectangle extends Rectangle implements IShape {
 
     public void draw() {
 
